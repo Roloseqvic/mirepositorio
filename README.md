@@ -1,6 +1,3 @@
-# mirepositorio
-Repositorio de ejemplo de comandos
+# Repositorio de achivos para el Curso React Native
+En este repositorio podrá descarga codigos o archivos requeridos para realizar los ejemplos prácticos 
 
-# Modificación de mi archivo readme
-
-Hola Mundo desde github
